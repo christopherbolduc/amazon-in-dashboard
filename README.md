@@ -24,7 +24,7 @@
   Evaluated promo effectiveness by category—tracking changes in AOV, revenue contribution, and overall sales impact.
 
 - **Return & Cancellation Risk**  
-  Scatter plots surface styles with elevated return or cancellation rates, flagging priority items based on volume and percentage thresholds.
+  Scatter plots reveal styles with elevated return or cancellation rates, flagging priority items based on volume and percentage thresholds.
 
 - **Dynamic Interactions**  
   Two toggles allow users to switch between Sales, Orders, and Units, and adjust the number of top styles displayed (Top 5, 10, or 25).
@@ -83,8 +83,6 @@ The mart layer contains focused aggregations tailored for Tableau visualizations
 - **`mart_amazon_geo_sales`**  
   Captures daily sales by style and region (city/state)  
   *Not currently used in the dashboard but useful for potential geographic deep-dives*
-
-Each mart is purpose-built for clarity, performance, and alignment with specific dashboard needs.
 
 ### Tableau Dashboard Design  
 The dashboard connects directly to mart-level SQL views. It uses parameter toggles, conditional formatting, annotations, and a narrative summary to guide users through key insights.

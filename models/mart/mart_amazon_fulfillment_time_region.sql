@@ -16,6 +16,6 @@ GROUP BY date, city, state, style, category, size, status;
 
 /*  Aggregate total units, sales, and average sales per unit 
     for shipped, cancelled, and returned styles by date, region, and size
-    Used to analyze fulfillment performance over time, across locations, and by size variant
+    Used to analyze fulfillment performance over time, across locations, and by size variant */
 
     -- DO NOT USE for sales rankings or top-selling style analysis (includes non-shipped orders)

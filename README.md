@@ -107,9 +107,9 @@ The dashboard connects directly to mart-level SQL views. It uses parameter toggl
     ├── visuals/                            Tableau screenshot
     ├── .env                                Environment file containing DB/API credentials
     ├── .gitignore                          Git exclusion rules
+    ├── requirements.txt                    Python dependencies for analysis
     ├── LICENSE
-    ├── README.md
-    ├── requirements.txt
+    └──README.md
 
  
 ## Technologies Used

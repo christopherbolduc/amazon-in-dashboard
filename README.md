@@ -109,7 +109,7 @@ The dashboard connects directly to mart-level SQL views. It uses parameter toggl
     ├── .gitignore                          Git exclusion rules
     ├── requirements.txt                    Python dependencies for analysis
     ├── LICENSE
-    └──README.md
+    └── README.md
 
  
 ## Technologies Used

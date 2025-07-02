@@ -40,7 +40,7 @@ This project followed a structured pipeline to convert raw marketplace data into
 
 <img src="visuals/tech_stack.png" alt="Tech Stack" width="75%" style="margin-bottom: 12px;">
  
-Raw CSVs → Python Cleaning → SQL Modeling (Staging → Prep → Mart) → Tableau Dashboard
+*Raw CSVs → Python Cleaning → SQL Modeling (Staging → Prep → Mart) → Tableau Dashboard*
 
 ### Python Cleaning  
 Data was first cleaned using Python (`pandas`) and Excel to:

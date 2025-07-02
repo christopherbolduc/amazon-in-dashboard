@@ -36,6 +36,8 @@
 
 This project followed a structured pipeline to convert raw marketplace data into a Tableau-ready dataset:
 
+![Tech Stack](visuals/tech_stack.png)
+
 **Pipeline**  
 Raw CSVs → Python Cleaning → SQL Modeling (Staging → Prep → Mart) → Tableau Dashboard
 

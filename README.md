@@ -90,7 +90,7 @@ The dashboard connects directly to mart-level SQL views. It uses parameter toggl
 
 ## Project Structure
 
-    .
+    amazon_in_sales/
     ├── data/
     │   ├── raw/                            Original downloaded CSVs
     │   ├── category_disparities.csv        Used for Excel-based category/style cleanup
